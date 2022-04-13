@@ -1,7 +1,7 @@
 # 안녕 난 박현민이야😀
 
-<a href="https://github.com/parkhyunmin0121" target="_blank"><img src="https://img.shields.io/badge/paekhyunmin-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-<a href="qjfbmin10114@icloud.com" target="_blank"><img src="https://img.shields.io/badge/cccaatt@icloud.com-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
+<a href="https://github.com/parkhyunmin0121" target="_blank"><img src="https://img.shields.io/badge/박현민-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="qjfbmin10114@icloud.com" target="_blank"><img src="https://img.shields.io/badge/메일주소-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF"/></a>
 <!-- **parkhyunmin0121/parkhyunmin0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
