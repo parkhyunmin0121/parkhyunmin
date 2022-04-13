@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 ##### 💻 내 노트북 OS  
 <a><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF"/></a>
-##### 🇰🇷 내가 쓰는 코딩 언 
+##### 🇰🇷 내가 쓰는 코딩 언어
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a> 
